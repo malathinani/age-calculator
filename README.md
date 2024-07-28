@@ -31,6 +31,7 @@ age-calculator/
 * User-friendly interface
 * Accurate age calculation
 * Clear and concise output
+* Mobile Responsive
 
 #### Contributing
 Feel free to contribute to this project by:
