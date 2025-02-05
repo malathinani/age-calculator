@@ -39,7 +39,7 @@ Feel free to contribute to this project by:
 * Suggesting new features
 * Improving the code
 
-##Live Link
+**Live Link**
 
 https://malathinani.github.io/age-calculator
 
